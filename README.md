@@ -2,7 +2,7 @@
 
 # Deploy react app trên Firebase Hosting
 
-Hướng dẫn cho người mới bắt đầu sau đây My chia sẻ 1 vài từ khóa(keyword) để các bạn tìm kiếm như sau:
+Hướng dẫn cho người mới bắt đầu sau đây MaiNguyen chia sẻ 1 vài từ khóa(keyword) để các bạn tìm kiếm như sau:
 - visual studio code : nơi viết code
 - html5
 - css
